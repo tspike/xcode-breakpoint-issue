@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "82B47BC8-44C6-492A-B21A-42CCDD3CDD74"
+   type = "4"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A02F34D-C2B3-4353-A233-5FB6F3947910"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "BreakpointIssue/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A02F34D-C2B3-4353-A233-5FB6F3947910 - fc12b0f39b69aa25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "Yes"
+                  symbolName = "BreakpointIssue.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "BreakpointIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tspiche/repo/BreakpointIssue/BreakpointIssue/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "9A02F34D-C2B3-4353-A233-5FB6F3947910 - 640319c7285d46c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "Yes"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Int in BreakpointIssue.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "BreakpointIssue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tspiche/repo/BreakpointIssue/BreakpointIssue/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "39">
+                  <Actions>
+                     <BreakpointActionProxy
+                        ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                        <ActionContent
+                           consoleCommand = "po $0">
+                        </ActionContent>
+                     </BreakpointActionProxy>
+                  </Actions>
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
